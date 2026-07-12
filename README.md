@@ -15,4 +15,4 @@
 - [Link](https://google.com) -- *Null*
 
 ## ***Writing***
-- [Link](https://fuck.com) -- *Null*
+- [Link](https://facebook.com) -- *Null*
